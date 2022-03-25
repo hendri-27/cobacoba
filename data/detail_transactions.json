@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "transaction_historyId":"910856567581643351115",
+        "foodId":1,
+        "qty":1,
+        "price":32728
+    },
+    {
+        "id":2,
+        "transaction_historyId":"910856567581643351115",
+        "foodId":3,
+        "qty":1,
+        "price":32728
+    },
+    {
+        "id":1,
+        "transaction_historyId":"812521431513454664",
+        "foodId":1,
+        "qty":1,
+        "price":32728
+    },
+    {
+        "id":2,
+        "transaction_historyId":"812521431513454664",
+        "foodId":3,
+        "qty":1,
+        "price":32728
+    }
+]

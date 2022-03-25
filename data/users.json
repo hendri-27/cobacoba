@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "username": "rendy",
+        "name": "Rendy Simangsih",
+        "gender": "male",
+        "birth_date": "20-10-1995",
+        "phone_number": "082635512635",
+        "email": "rendy.simangsih@gmail.com",
+        "password": "pass",
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 2,
+        "username": "rudy",
+        "name": "Rudy Tabuty",
+        "gender": "male",
+        "birth_date": "01-01-2000",
+        "phone_number": "0811354234478",
+        "email": "rudy100@gmail.com",
+        "password": "pass",
+        "photo_url": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+        "id": 3,
+        "username": "may",
+        "name": "May Stefany",
+        "gender": "female",
+        "birth_date": "21-07-2002",
+        "phone_number": "0857837957999",
+        "email": "may.may@gmail.com",
+        "password": "pass",
+        "photo_url": "https://randomuser.me/api/portraits/women/44.jpg"
+    }
+]

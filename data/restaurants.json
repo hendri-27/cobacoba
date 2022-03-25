@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Bakmi GM",
+        "address":"Mall Galaxy 3, Lantai 4, Unit 4-344 & 4-345, Jl. Ir Dr Haji Soekarno 178, Mulyorejo, Surabaya",
+        "phone_number": "082737776422",
+        "photo_url": "/restaurants/bakmi-gm.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mie Ayam & Bakso Solo Pak Mameng, Tenggilis Mejoyo",
+        "address":"Jl. Kendangsari, Gang Lebar No. 80, Tenggilis Mejoyo, Surabaya",
+        "phone_number": "08125633525",
+        "photo_url": "/restaurants/mie-bakso-pakmameng.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ayam Geprek Gold Chick, Mulyosari",
+        "address":"Jl. Mulyosari No. 118, Mulyosari, Mulyorejo, Surabaya",
+        "phone_number": "085433887262",
+        "photo_url": "/restaurants/gold-chick.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sate Ayam Pak Farhan",
+        "address":"Gunung Anyar Tengah Gang 8 No 42, Surabaya",
+        "phone_number": "0822563566231",
+        "photo_url": "/restaurants/sate-ayam-pakfarhan.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Soto Ayam C.Kan Tenggilis",
+        "address":"Jln. Tenggilis Raya Rungkut Mejoyo No.169",
+        "phone_number": "0815298566325",
+        "photo_url": "/restaurants/soto-ayam-ckan.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Soto Ayam Mail, Tenggilis Mejoyo",
+        "address":"Jl. Kendangsari No. 23, Tenggilis Mejoyo, Surabaya",
+        "phone_number": "08264531897555",
+        "photo_url": "/restaurants/soto-ayam-mail.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Soto Ayam Mail, Tenggilis Mejoyo",
+        "address":"Perum Royal Paka, Blok F No. 5, Jl. Royal Paka, Gunung Anyar, Surabaya",
+        "phone_number": "0859465554357",
+        "photo_url": "/restaurants/bakso-royal.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Haus!, Rungkut Madya",
+        "address":"Jl. Rungkut Madya No. 81, Rungkut, Surabaya",
+        "phone_number": "0812564585232",
+        "photo_url": "/restaurants/haus!.jpg"
+    },
+    {
+        "id": 9,
+        "name": "LvMieUp, Bendul Merisi Jaya 6 No 5",
+        "address":"Jl. Bendul Merisi Jaya 6 No 5, Bendulmerisi, Surabaya",
+        "phone_number": "08356426519564",
+        "photo_url": "/restaurants/lvmieup.jpg"
+    }
+]

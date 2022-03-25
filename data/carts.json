@@ -1,0 +1,20 @@
+[
+    {
+        "userId":1,
+        "restaurantId":2,
+        "foodId":8,
+        "qty":2
+    },
+    {
+        "userId":1,
+        "restaurantId":2,
+        "foodId":9,
+        "qty":1 
+    },
+    {
+        "userId":2,
+        "restaurantId":5,
+        "foodId":15,
+        "qty":1
+    }
+]

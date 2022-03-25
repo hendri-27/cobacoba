@@ -1,0 +1,16 @@
+[
+    {
+        "id":"2er3soie4",
+        "userId":1,
+        "discount":65000,
+        "status":"Used",
+        "exp_date":"15-06-2022"
+    },
+    {
+        "id":"258uuScUse",
+        "userId":1,
+        "discount":30000,
+        "status":"Available",
+        "exp_date":"15-06-2022"
+    }
+]

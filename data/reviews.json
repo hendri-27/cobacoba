@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "restaurantId": 1,
+        "rating": 3.0,
+        "message": "Varian terbaru banget dari bakmi gm. Intinya ini pangsit goreng bakmi gm tapi kulitnya aja tanpa daging. Dibikin snack gitu. Terus dikasi bubuk truffle. Rasa pangsitnya emang khas bakmi gm banget. Kesukaan deh. Buat trufflenya oke sih cukup berasa tapi mang saya lebih suka pangsit goreng originalnya yg dicocol saus merahnya. Ini enak tapi ya trufflenya menurut saya tidak sampai oke banget rasanya. Ini harganya 43k. Dapetnya semangkok ga gede2 amat ae mangkoknya.",
+        "date": "20-12-2021"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "restaurantId": 1,
+        "rating": 5.0,
+        "message": "bakmi gm sih udah tidak perlu diragukan lagi kelezatannya. siapa sih yang tidak kenal mie ini? selain mie ayam jamurnya yang kenyal, kamu juga harus beli pangsit gorengnya yang kerap menjadi menu favorit banyak orang yang datang :)",
+        "date": "01-03-2021"
+    },
+    {
+        "id": 3,
+        "userId": 2,
+        "restaurantId": 3,
+        "rating": 5.0,
+        "message": "Jadi karna harus #dirumahaja jadi ya mesen makan lewat online. Mesen ayam geprek dan ayam geprek sambel ijo. Rasanya beuh endus beud enak lah pedesnya nagih gitu loh apalagi yg sambel ijo mantap",
+        "date": "17-10-2021"
+    }
+]

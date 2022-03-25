@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "restaurandId": 1,
+        "name": "Yi Fu Mie Ni Ayam Cah Cabai",
+        "stock": 10,
+        "price": 32728,
+        "photo_url":"/bakmi-gm/1399370381.jpg"
+    },
+    {
+        "id": 2,
+        "restaurandId": 1,
+        "name": "Bakmi Special GM",
+        "stock": 30,
+        "price": 30910,
+        "photo_url":"/bakmi-gm/1373339502.jpg"
+    },
+    {
+        "id": 3,
+        "restaurandId": 1,
+        "name": "Bakmi Pangsit Goreng",
+        "stock": 1,
+        "price": 32728,
+        "photo_url":"/bakmi-gm/1373340128.jpg"
+    },
+    {
+        "id": 4,
+        "restaurandId": 1,
+        "name": "Bakmi Ayam Cah Jamur",
+        "stock": 22,
+        "price": 40000,
+        "photo_url":"/bakmi-gm/1373340170.jpg"
+    },
+    {
+        "id": 5,
+        "restaurandId": 1,
+        "name": "Bakmi Goreng",
+        "stock": 0,
+        "price": 44546,
+        "photo_url":"/bakmi-gm/1373340879.jpg"
+    },
+    {
+        "id": 6,
+        "restaurandId": 1,
+        "name": "Bakmi Brokoli Sapi Lada Hitam",
+        "stock": 12,
+        "price": 46364,
+        "photo_url":"/bakmi-gm/1373340706.jpg"
+    },
+    {
+        "id": 7,
+        "restaurandId": 1,
+        "name": "Bakmi Doank",
+        "stock": 100,
+        "price": 19546,
+        "photo_url":"/bakmi-gm/1373341066.jpg"
+    },
+    {
+        "id": 8,
+        "restaurandId": 2,
+        "name": "Mie Ayam Bakso",
+        "stock": 50,
+        "price": 16000,
+        "photo_url":"/mie-bakso-pakmameng/15226535235.jpg"
+    },
+    {
+        "id": 9,
+        "restaurandId": 2,
+        "name": "Bakso Campur",
+        "stock": 38,
+        "price": 15000,
+        "photo_url":"/mie-bakso-pakmameng/1563522652899.jpg"
+    },
+    {
+        "id": 10,
+        "restaurandId": 3,
+        "name": "Ayam Geprek",
+        "stock": 76,
+        "price": 18150,
+        "photo_url":"/gold-chick/1642202177851186762.jpg"
+    },
+    {
+        "id": 11,
+        "restaurandId": 3,
+        "name": "Ayam Geprek Cabe Ijo",
+        "stock": 26,
+        "price": 25410,
+        "photo_url":"/gold-chick/1606212562833972510.jpg"
+    },
+    {
+        "id": 12,
+        "restaurandId": 4,
+        "name": "Sate Ayam Daging + Kulit 10 Tusuk",
+        "stock": 200,
+        "price": 18700,
+        "photo_url":"/sate-ayam-pakfarhan/20201013150117.jpg"
+    },
+    {
+        "id": 13,
+        "restaurandId": 4,
+        "name": "Sate Kambing 10 Tusuk",
+        "stock": 300,
+        "price": 35000,
+        "photo_url":"/sate-ayam-pakfarhan/20210125210513.jpg"
+    },
+    {
+        "id": 14,
+        "restaurandId": 4,
+        "name": "Es Teh Manis",
+        "stock": 500,
+        "price": 4000,
+        "photo_url":"/sate-ayam-pakfarhan/20201013154155.jpg"
+    },
+    {
+        "id": 15,
+        "restaurandId": 5,
+        "name": "Soto Ayam",
+        "stock": 105,
+        "price": 18700,
+        "photo_url":"/soto-ayam-ckan/20220117103018.jpg"
+    },
+    {
+        "id": 16,
+        "restaurandId": 5,
+        "name": "Es Jeruk/Hangat",
+        "stock": 235,
+        "price": 7200,
+        "photo_url":"/soto-ayam-ckan/20220119151703.jpg"
+    },
+    {
+        "id": 17,
+        "restaurandId": 6,
+        "name": "Soto Jeroan",
+        "stock": 312,
+        "price": 20000,
+        "photo_url":"/soto-ayam-mail/159064681560054.jpg"
+    },
+    {
+        "id": 18,
+        "restaurandId": 6,
+        "name": "Soto Biasa",
+        "stock": 115,
+        "price": 15000,
+        "photo_url":"/soto-ayam-mail/12550616543660.jpg"
+    },
+    {
+        "id": 19,
+        "restaurandId": 7,
+        "name": "Bakso Kerikil Tahu",
+        "stock": 55,
+        "price": 24800,
+        "photo_url":"/bakso-royal/20210125214538.jpg"
+    },
+    {
+        "id": 20,
+        "restaurandId": 7,
+        "name": "Bakso Panas (Bakso Urat Pake Nasi)",
+        "stock": 83,
+        "price": 31500,
+        "photo_url":"/bakso-royal/20220227213820.jpg"
+    },
+    {
+        "id": 21,
+        "restaurandId": 7,
+        "name": "Bakso Campur",
+        "stock": 47,
+        "price": 24800,
+        "photo_url":"/bakso-royal/20200906054459.jpg"
+    },
+    {
+        "id": 22,
+        "restaurandId": 8,
+        "name": "Kiwi Tea",
+        "stock": 115,
+        "price": 12000,
+        "photo_url":"/haus!/1645749989158.jpg"
+    },
+    {
+        "id": 23,
+        "restaurandId": 8,
+        "name": "Kiwi Tea",
+        "stock": 105,
+        "price": 12000,
+        "photo_url":"/haus!/1645749997882.jpg"
+    },
+    {
+        "id": 24,
+        "restaurandId": 9,
+        "name": "Mie Kari Special Next Lv",
+        "stock": 325,
+        "price": 20000,
+        "photo_url":"/lvmieup/20220103175028.jpg"
+    },
+    {
+        "id": 25,
+        "restaurandId": 9,
+        "name": "Mie Goreng Aceh Special Next Lv",
+        "stock": 325,
+        "price": 20000,
+        "photo_url":"/lvmieup/20220103180839.jpg"
+    }
+]
